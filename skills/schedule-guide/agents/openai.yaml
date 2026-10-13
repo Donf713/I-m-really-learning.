@@ -1,0 +1,4 @@
+interface:
+  display_name: "定时任务向导"
+  short_description: "从一句需求逐轮选择与补充方向，生成可确认的完整方案，再创建定时任务"
+  default_prompt: "使用 $schedule-guide，从我的一句需求开始引导我确定方向，整理任务方案，确认后创建定时任务。"
